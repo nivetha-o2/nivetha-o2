@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nivetha
+- 👋 Hi, I’m Nivetha
 - 👀 I’m interested in exploring new things 
 - 🌱 I’m an aspiring Frontend Developer
 - 🦋 I have solid foundation on HTML5,CSS,Javascript,Bootstrap
